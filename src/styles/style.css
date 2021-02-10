@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(61, 120, 187, 0.486);
+    font: normal 15pt arial;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    background-color: #fff;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.363);
+}
+select {
+    width:200px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
